@@ -1,0 +1,1 @@
+# pr-merging-guidelines
